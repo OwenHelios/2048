@@ -5,4 +5,4 @@ Can be customized at Grid.js
 
 ## TODO
 
-### [] Add buttons for game size coustomization
+### - [] Add buttons for game size coustomization
