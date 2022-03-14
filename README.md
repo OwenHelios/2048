@@ -6,3 +6,16 @@ Can be customized at Grid.js
 ## TODO
 
 ### ** - [ ] Add buttons for game size coustomization **
+
+
+### Solar System Exploration, 1950s – 1960s
+
+- [ ] Mercury
+- [x] Venus
+- [x] Earth (Orbit/Moon)
+- [x] Mars
+- [ ] Jupiter
+- [ ] Saturn
+- [ ] Uranus
+- [ ] Neptune
+- [ ] Comet Haley
